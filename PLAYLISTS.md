@@ -1,9 +1,9 @@
 # Playlists
 
 > Generated automatically — do not edit by hand.
-> Last updated **2026-09-03 21:05 UTC**.
+> Last updated **2026-09-04 04:40 UTC**.
 
-9,847 channels with a working stream, out of 29,844 indexed. 0 streams responded on the last scan.
+9,863 channels with a working stream, out of 29,844 indexed. 0 streams responded on the last scan.
 
 ## Main playlists
 
@@ -38,13 +38,13 @@ One playlist per country, best stream per channel.
 
 | Country | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| 🇺🇸 United States | 1,556 | 1,556 | `https://kriengsakmj.github.io/iptv/playlists/country/us.m3u` |
-| 🇮🇳 India | 698 | 698 | `https://kriengsakmj.github.io/iptv/playlists/country/in.m3u` |
-| 🇷🇺 Russia | 423 | 423 | `https://kriengsakmj.github.io/iptv/playlists/country/ru.m3u` |
+| 🇺🇸 United States | 1,559 | 1,559 | `https://kriengsakmj.github.io/iptv/playlists/country/us.m3u` |
+| 🇮🇳 India | 692 | 692 | `https://kriengsakmj.github.io/iptv/playlists/country/in.m3u` |
+| 🇷🇺 Russia | 435 | 435 | `https://kriengsakmj.github.io/iptv/playlists/country/ru.m3u` |
 | 🇩🇪 Germany | 415 | 415 | `https://kriengsakmj.github.io/iptv/playlists/country/de.m3u` |
 | 🇧🇷 Brazil | 276 | 276 | `https://kriengsakmj.github.io/iptv/playlists/country/br.m3u` |
 | 🇮🇹 Italy | 251 | 251 | `https://kriengsakmj.github.io/iptv/playlists/country/it.m3u` |
-| 🇪🇸 Spain | 248 | 248 | `https://kriengsakmj.github.io/iptv/playlists/country/es.m3u` |
+| 🇪🇸 Spain | 246 | 246 | `https://kriengsakmj.github.io/iptv/playlists/country/es.m3u` |
 | 🇩🇴 Dominican Republic | 245 | 245 | `https://kriengsakmj.github.io/iptv/playlists/country/do.m3u` |
 | 🇨🇱 Chile | 236 | 236 | `https://kriengsakmj.github.io/iptv/playlists/country/cl.m3u` |
 | 🇸🇪 Sweden | 202 | 202 | `https://kriengsakmj.github.io/iptv/playlists/country/se.m3u` |
@@ -53,15 +53,15 @@ One playlist per country, best stream per channel.
 | 🇫🇷 France | 177 | 177 | `https://kriengsakmj.github.io/iptv/playlists/country/fr.m3u` |
 | 🇺🇦 Ukraine | 174 | 174 | `https://kriengsakmj.github.io/iptv/playlists/country/ua.m3u` |
 | 🇳🇱 Netherlands | 171 | 171 | `https://kriengsakmj.github.io/iptv/playlists/country/nl.m3u` |
-| 🇵🇪 Peru | 168 | 168 | `https://kriengsakmj.github.io/iptv/playlists/country/pe.m3u` |
-| 🇦🇷 Argentina | 160 | 160 | `https://kriengsakmj.github.io/iptv/playlists/country/ar.m3u` |
+| 🇵🇪 Peru | 170 | 170 | `https://kriengsakmj.github.io/iptv/playlists/country/pe.m3u` |
+| 🇦🇷 Argentina | 164 | 164 | `https://kriengsakmj.github.io/iptv/playlists/country/ar.m3u` |
 | 🇲🇽 Mexico | 154 | 154 | `https://kriengsakmj.github.io/iptv/playlists/country/mx.m3u` |
 | 🇨🇳 China | 148 | 148 | `https://kriengsakmj.github.io/iptv/playlists/country/cn.m3u` |
 | 🇭🇺 Hungary | 132 | 132 | `https://kriengsakmj.github.io/iptv/playlists/country/hu.m3u` |
-| 🇮🇩 Indonesia | 130 | 130 | `https://kriengsakmj.github.io/iptv/playlists/country/id.m3u` |
+| 🇮🇩 Indonesia | 129 | 129 | `https://kriengsakmj.github.io/iptv/playlists/country/id.m3u` |
 | 🇨🇦 Canada | 121 | 121 | `https://kriengsakmj.github.io/iptv/playlists/country/ca.m3u` |
 | 🇮🇷 Iran | 120 | 120 | `https://kriengsakmj.github.io/iptv/playlists/country/ir.m3u` |
-| 🇨🇴 Colombia | 107 | 107 | `https://kriengsakmj.github.io/iptv/playlists/country/co.m3u` |
+| 🇨🇴 Colombia | 106 | 106 | `https://kriengsakmj.github.io/iptv/playlists/country/co.m3u` |
 | 🇷🇴 Romania | 96 | 96 | `https://kriengsakmj.github.io/iptv/playlists/country/ro.m3u` |
 | 🇵🇱 Poland | 91 | 91 | `https://kriengsakmj.github.io/iptv/playlists/country/pl.m3u` |
 | 🇵🇰 Pakistan | 86 | 86 | `https://kriengsakmj.github.io/iptv/playlists/country/pk.m3u` |
@@ -84,13 +84,13 @@ One playlist per country, best stream per channel.
 | 🇮🇶 Iraq | 55 | 55 | `https://kriengsakmj.github.io/iptv/playlists/country/iq.m3u` |
 | 🇳🇬 Nigeria | 53 | 53 | `https://kriengsakmj.github.io/iptv/playlists/country/ng.m3u` |
 | 🇸🇰 Slovakia | 48 | 48 | `https://kriengsakmj.github.io/iptv/playlists/country/sk.m3u` |
+| 🇰🇿 Kazakhstan | 41 | 41 | `https://kriengsakmj.github.io/iptv/playlists/country/kz.m3u` |
 | 🇦🇺 Australia | 40 | 40 | `https://kriengsakmj.github.io/iptv/playlists/country/au.m3u` |
 | 🇧🇪 Belgium | 39 | 39 | `https://kriengsakmj.github.io/iptv/playlists/country/be.m3u` |
 | 🇰🇪 Kenya | 38 | 38 | `https://kriengsakmj.github.io/iptv/playlists/country/ke.m3u` |
 | 🇦🇪 United Arab Emirates | 38 | 38 | `https://kriengsakmj.github.io/iptv/playlists/country/ae.m3u` |
 | 🇲🇳 Mongolia | 37 | 37 | `https://kriengsakmj.github.io/iptv/playlists/country/mn.m3u` |
 | 🇸🇻 El Salvador | 36 | 36 | `https://kriengsakmj.github.io/iptv/playlists/country/sv.m3u` |
-| 🇰🇿 Kazakhstan | 35 | 35 | `https://kriengsakmj.github.io/iptv/playlists/country/kz.m3u` |
 | 🇺🇿 Uzbekistan | 33 | 33 | `https://kriengsakmj.github.io/iptv/playlists/country/uz.m3u` |
 | 🇭🇷 Croatia | 32 | 32 | `https://kriengsakmj.github.io/iptv/playlists/country/hr.m3u` |
 | 🇨🇭 Switzerland | 32 | 32 | `https://kriengsakmj.github.io/iptv/playlists/country/ch.m3u` |
@@ -113,9 +113,9 @@ One playlist per country, best stream per channel.
 | 🇲🇾 Malaysia | 21 | 21 | `https://kriengsakmj.github.io/iptv/playlists/country/my.m3u` |
 | 🇬🇪 Georgia | 20 | 20 | `https://kriengsakmj.github.io/iptv/playlists/country/ge.m3u` |
 | 🇸🇬 Singapore | 20 | 20 | `https://kriengsakmj.github.io/iptv/playlists/country/sg.m3u` |
-| 🇳🇮 Nicaragua | 20 | 20 | `https://kriengsakmj.github.io/iptv/playlists/country/ni.m3u` |
 | 🇵🇸 Palestine | 19 | 19 | `https://kriengsakmj.github.io/iptv/playlists/country/ps.m3u` |
 | 🇪🇪 Estonia | 19 | 19 | `https://kriengsakmj.github.io/iptv/playlists/country/ee.m3u` |
+| 🇳🇮 Nicaragua | 19 | 19 | `https://kriengsakmj.github.io/iptv/playlists/country/ni.m3u` |
 | 🇨🇮 Ivory Coast | 18 | 18 | `https://kriengsakmj.github.io/iptv/playlists/country/ci.m3u` |
 | 🇪🇬 Egypt | 18 | 18 | `https://kriengsakmj.github.io/iptv/playlists/country/eg.m3u` |
 | 🇯🇴 Jordan | 18 | 18 | `https://kriengsakmj.github.io/iptv/playlists/country/jo.m3u` |
@@ -227,31 +227,31 @@ One playlist per category — news, sports, movies, music and so on.
 
 | Category | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| General | 2,447 | 2,447 | `https://kriengsakmj.github.io/iptv/playlists/category/general.m3u` |
-| News | 917 | 917 | `https://kriengsakmj.github.io/iptv/playlists/category/news.m3u` |
+| General | 2,452 | 2,452 | `https://kriengsakmj.github.io/iptv/playlists/category/general.m3u` |
+| News | 921 | 921 | `https://kriengsakmj.github.io/iptv/playlists/category/news.m3u` |
 | Entertainment | 760 | 760 | `https://kriengsakmj.github.io/iptv/playlists/category/entertainment.m3u` |
-| Religious | 729 | 729 | `https://kriengsakmj.github.io/iptv/playlists/category/religious.m3u` |
-| Music | 706 | 706 | `https://kriengsakmj.github.io/iptv/playlists/category/music.m3u` |
-| Movies | 588 | 588 | `https://kriengsakmj.github.io/iptv/playlists/category/movies.m3u` |
-| Sports | 416 | 416 | `https://kriengsakmj.github.io/iptv/playlists/category/sports.m3u` |
-| Series | 404 | 404 | `https://kriengsakmj.github.io/iptv/playlists/category/series.m3u` |
-| Kids | 332 | 332 | `https://kriengsakmj.github.io/iptv/playlists/category/kids.m3u` |
-| Education | 234 | 234 | `https://kriengsakmj.github.io/iptv/playlists/category/education.m3u` |
-| Documentary | 207 | 207 | `https://kriengsakmj.github.io/iptv/playlists/category/documentary.m3u` |
-| Culture | 181 | 181 | `https://kriengsakmj.github.io/iptv/playlists/category/culture.m3u` |
+| Religious | 728 | 728 | `https://kriengsakmj.github.io/iptv/playlists/category/religious.m3u` |
+| Music | 708 | 708 | `https://kriengsakmj.github.io/iptv/playlists/category/music.m3u` |
+| Movies | 590 | 590 | `https://kriengsakmj.github.io/iptv/playlists/category/movies.m3u` |
+| Sports | 417 | 417 | `https://kriengsakmj.github.io/iptv/playlists/category/sports.m3u` |
+| Series | 403 | 403 | `https://kriengsakmj.github.io/iptv/playlists/category/series.m3u` |
+| Kids | 333 | 333 | `https://kriengsakmj.github.io/iptv/playlists/category/kids.m3u` |
+| Education | 230 | 230 | `https://kriengsakmj.github.io/iptv/playlists/category/education.m3u` |
+| Documentary | 208 | 208 | `https://kriengsakmj.github.io/iptv/playlists/category/documentary.m3u` |
+| Culture | 182 | 182 | `https://kriengsakmj.github.io/iptv/playlists/category/culture.m3u` |
 | Legislative | 180 | 180 | `https://kriengsakmj.github.io/iptv/playlists/category/legislative.m3u` |
-| Comedy | 159 | 159 | `https://kriengsakmj.github.io/iptv/playlists/category/comedy.m3u` |
+| Comedy | 158 | 158 | `https://kriengsakmj.github.io/iptv/playlists/category/comedy.m3u` |
 | Lifestyle | 121 | 121 | `https://kriengsakmj.github.io/iptv/playlists/category/lifestyle.m3u` |
 | Animation | 115 | 115 | `https://kriengsakmj.github.io/iptv/playlists/category/animation.m3u` |
-| Classic | 82 | 82 | `https://kriengsakmj.github.io/iptv/playlists/category/classic.m3u` |
+| Classic | 81 | 81 | `https://kriengsakmj.github.io/iptv/playlists/category/classic.m3u` |
 | Shop | 80 | 80 | `https://kriengsakmj.github.io/iptv/playlists/category/shop.m3u` |
-| Business | 64 | 64 | `https://kriengsakmj.github.io/iptv/playlists/category/business.m3u` |
+| Business | 63 | 63 | `https://kriengsakmj.github.io/iptv/playlists/category/business.m3u` |
 | Outdoor | 61 | 61 | `https://kriengsakmj.github.io/iptv/playlists/category/outdoor.m3u` |
 | Travel | 57 | 57 | `https://kriengsakmj.github.io/iptv/playlists/category/travel.m3u` |
 | Cooking | 46 | 46 | `https://kriengsakmj.github.io/iptv/playlists/category/cooking.m3u` |
 | Family | 41 | 41 | `https://kriengsakmj.github.io/iptv/playlists/category/family.m3u` |
 | Public | 35 | 35 | `https://kriengsakmj.github.io/iptv/playlists/category/public.m3u` |
-| Auto | 23 | 23 | `https://kriengsakmj.github.io/iptv/playlists/category/auto.m3u` |
+| Auto | 24 | 24 | `https://kriengsakmj.github.io/iptv/playlists/category/auto.m3u` |
 | Science | 20 | 20 | `https://kriengsakmj.github.io/iptv/playlists/category/science.m3u` |
 | Weather | 16 | 16 | `https://kriengsakmj.github.io/iptv/playlists/category/weather.m3u` |
 | Relax | 9 | 9 | `https://kriengsakmj.github.io/iptv/playlists/category/relax.m3u` |
@@ -268,13 +268,13 @@ One playlist per broadcast language.
 
 | Language | Channels | Streams | URL |
 | --- | ---: | ---: | --- |
-| English | 2,477 | 2,477 | `https://kriengsakmj.github.io/iptv/playlists/language/eng.m3u` |
-| Spanish | 2,259 | 2,259 | `https://kriengsakmj.github.io/iptv/playlists/language/spa.m3u` |
-| Russian | 547 | 547 | `https://kriengsakmj.github.io/iptv/playlists/language/rus.m3u` |
+| English | 2,475 | 2,475 | `https://kriengsakmj.github.io/iptv/playlists/language/eng.m3u` |
+| Spanish | 2,264 | 2,264 | `https://kriengsakmj.github.io/iptv/playlists/language/spa.m3u` |
+| Russian | 564 | 564 | `https://kriengsakmj.github.io/iptv/playlists/language/rus.m3u` |
 | Portuguese | 477 | 477 | `https://kriengsakmj.github.io/iptv/playlists/language/por.m3u` |
 | French | 456 | 456 | `https://kriengsakmj.github.io/iptv/playlists/language/fra.m3u` |
 | Arabic | 354 | 354 | `https://kriengsakmj.github.io/iptv/playlists/language/ara.m3u` |
-| Hindi | 329 | 329 | `https://kriengsakmj.github.io/iptv/playlists/language/hin.m3u` |
+| Hindi | 325 | 325 | `https://kriengsakmj.github.io/iptv/playlists/language/hin.m3u` |
 | German | 321 | 321 | `https://kriengsakmj.github.io/iptv/playlists/language/deu.m3u` |
 | Italian | 320 | 320 | `https://kriengsakmj.github.io/iptv/playlists/language/ita.m3u` |
 | Chinese | 207 | 207 | `https://kriengsakmj.github.io/iptv/playlists/language/zho.m3u` |
@@ -285,29 +285,29 @@ One playlist per broadcast language.
 | Danish | 157 | 157 | `https://kriengsakmj.github.io/iptv/playlists/language/dan.m3u` |
 | Hungarian | 145 | 145 | `https://kriengsakmj.github.io/iptv/playlists/language/hun.m3u` |
 | Swedish | 139 | 139 | `https://kriengsakmj.github.io/iptv/playlists/language/swe.m3u` |
-| Indonesian | 135 | 135 | `https://kriengsakmj.github.io/iptv/playlists/language/ind.m3u` |
+| Indonesian | 134 | 134 | `https://kriengsakmj.github.io/iptv/playlists/language/ind.m3u` |
 | Romanian | 129 | 129 | `https://kriengsakmj.github.io/iptv/playlists/language/ron.m3u` |
 | Norwegian | 120 | 120 | `https://kriengsakmj.github.io/iptv/playlists/language/nor.m3u` |
-| Tamil | 118 | 118 | `https://kriengsakmj.github.io/iptv/playlists/language/tam.m3u` |
+| Tamil | 116 | 116 | `https://kriengsakmj.github.io/iptv/playlists/language/tam.m3u` |
 | Vietnamese | 98 | 98 | `https://kriengsakmj.github.io/iptv/playlists/language/vie.m3u` |
 | Serbian | 92 | 92 | `https://kriengsakmj.github.io/iptv/playlists/language/srp.m3u` |
 | Greek | 89 | 89 | `https://kriengsakmj.github.io/iptv/playlists/language/ell.m3u` |
 | Polish | 88 | 88 | `https://kriengsakmj.github.io/iptv/playlists/language/pol.m3u` |
-| Bengali | 87 | 87 | `https://kriengsakmj.github.io/iptv/playlists/language/ben.m3u` |
+| Bengali | 88 | 88 | `https://kriengsakmj.github.io/iptv/playlists/language/ben.m3u` |
 | Bulgarian | 82 | 82 | `https://kriengsakmj.github.io/iptv/playlists/language/bul.m3u` |
 | Korean | 82 | 82 | `https://kriengsakmj.github.io/iptv/playlists/language/kor.m3u` |
 | Finnish | 79 | 79 | `https://kriengsakmj.github.io/iptv/playlists/language/fin.m3u` |
 | Urdu | 77 | 77 | `https://kriengsakmj.github.io/iptv/playlists/language/urd.m3u` |
 | Thai | 74 | 74 | `https://kriengsakmj.github.io/iptv/playlists/language/tha.m3u` |
-| Telugu | 70 | 70 | `https://kriengsakmj.github.io/iptv/playlists/language/tel.m3u` |
-| Malayalam | 70 | 70 | `https://kriengsakmj.github.io/iptv/playlists/language/mal.m3u` |
 | Czech | 70 | 70 | `https://kriengsakmj.github.io/iptv/playlists/language/ces.m3u` |
+| Malayalam | 69 | 69 | `https://kriengsakmj.github.io/iptv/playlists/language/mal.m3u` |
+| Telugu | 68 | 68 | `https://kriengsakmj.github.io/iptv/playlists/language/tel.m3u` |
 | Slovak | 55 | 55 | `https://kriengsakmj.github.io/iptv/playlists/language/slk.m3u` |
 | Albanian | 55 | 55 | `https://kriengsakmj.github.io/iptv/playlists/language/sqi.m3u` |
 | Catalan | 54 | 54 | `https://kriengsakmj.github.io/iptv/playlists/language/cat.m3u` |
 | Panjabi | 44 | 44 | `https://kriengsakmj.github.io/iptv/playlists/language/pan.m3u` |
+| Kazakh | 40 | 40 | `https://kriengsakmj.github.io/iptv/playlists/language/kaz.m3u` |
 | Mongolian | 39 | 39 | `https://kriengsakmj.github.io/iptv/playlists/language/mon.m3u` |
-| Kazakh | 35 | 35 | `https://kriengsakmj.github.io/iptv/playlists/language/kaz.m3u` |
 | Kurdish | 34 | 34 | `https://kriengsakmj.github.io/iptv/playlists/language/kur.m3u` |
 | Uzbek | 33 | 33 | `https://kriengsakmj.github.io/iptv/playlists/language/uzb.m3u` |
 | Kannada | 30 | 30 | `https://kriengsakmj.github.io/iptv/playlists/language/kan.m3u` |
@@ -329,12 +329,12 @@ One playlist per broadcast language.
 | Assamese | 16 | 16 | `https://kriengsakmj.github.io/iptv/playlists/language/asm.m3u` |
 | Latvian | 16 | 16 | `https://kriengsakmj.github.io/iptv/playlists/language/lav.m3u` |
 | Tajik | 15 | 15 | `https://kriengsakmj.github.io/iptv/playlists/language/tgk.m3u` |
+| Gujarati | 14 | 14 | `https://kriengsakmj.github.io/iptv/playlists/language/guj.m3u` |
 | Armenian | 14 | 14 | `https://kriengsakmj.github.io/iptv/playlists/language/hye.m3u` |
 | cze | 14 | 14 | `https://kriengsakmj.github.io/iptv/playlists/language/cze.m3u` |
 | Bosnian | 14 | 14 | `https://kriengsakmj.github.io/iptv/playlists/language/bos.m3u` |
 | Haitian | 14 | 14 | `https://kriengsakmj.github.io/iptv/playlists/language/hat.m3u` |
 | Dari (Parsi) | 13 | 13 | `https://kriengsakmj.github.io/iptv/playlists/language/prd.m3u` |
-| Gujarati | 13 | 13 | `https://kriengsakmj.github.io/iptv/playlists/language/guj.m3u` |
 | Belarusian | 12 | 12 | `https://kriengsakmj.github.io/iptv/playlists/language/bel.m3u` |
 | Tagalog | 12 | 12 | `https://kriengsakmj.github.io/iptv/playlists/language/tgl.m3u` |
 | Kirghiz | 11 | 11 | `https://kriengsakmj.github.io/iptv/playlists/language/kir.m3u` |
